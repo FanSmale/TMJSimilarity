@@ -1,0 +1,6 @@
+What are Triangle multiplying Jaccard (TMJ)?
+1. TMJ similarity is desired to provie better prediction ability for recommender system.
+2. The Triangle similarity considers both the length and the angle of rating vectors between them, while the Jaccard similarity considers non co-rating users. Therefore TMJ can take advantages of both Triangle and Jaccard similarities.
+3. By comparing experimental results with eight state-of-the-art ones on four popular datasets under the leave-one-out scenario, results show that the new measure outperforms all the counterparts in terms of MAE and RSME.
+
+Note that since some data sizes are out of limits, please use them after decompression.
